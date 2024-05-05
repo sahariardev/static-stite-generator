@@ -1,7 +1,9 @@
+import {Button} from "@/components/ui/button";
+
 function HomePage() {
   return (
       <div>
-        Home Page
+        <Button>Click Me</Button>
       </div>
   );
 }
